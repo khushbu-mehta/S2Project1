@@ -47,25 +47,25 @@ body {
 
 #food {
     position: relative;
-    top: -150%;
-    left: -50%;
+    top: -300%;
 }
 
 #imgfood{
     position: absolute;
     top: -370px;
-    left: -480px;
+    left: -600px;
 }
 
 #cinderella {
     position: relative;
-    top: -300%;
+    top: -150%;
+    left: -50%;
 }
 
 #imgcinderella{
     position: absolute;
     top: -350px;
-    left: -575px;
+    left: -475px;
 }
 
 #daisy {
